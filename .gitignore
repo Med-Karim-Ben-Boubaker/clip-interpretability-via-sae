@@ -1,0 +1,8 @@
+.cursor/
+.vscode/
+
+.venv/
+uv.lock
+.env
+
+data/
